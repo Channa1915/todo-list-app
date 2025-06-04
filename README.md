@@ -42,6 +42,10 @@ A simple, clean, and responsive To-Do List web application built using **HTML**,
 
 ## 📂 Folder Structure
 
+todo-list-app/
+│
+├── index.html
+└── README.md
 
 ---
 
