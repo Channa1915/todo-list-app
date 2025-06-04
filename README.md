@@ -26,17 +26,10 @@ A simple, clean, and responsive To-Do List web application built using **HTML**,
 ## 📸 Screenshot
 
 > Before clicking a task:
-
+![Screenshot1 png](https://github.com/user-attachments/assets/2ecc7b55-f7e6-4878-ade6-4839d554cdc7)
 
 > After clicking the task:
-
----
-
-## 🚀 Getting Started
-
-1. Download or clone the repo  
-2. Open the `index.html` file in your browser  
-3. Start adding tasks!
+![Screenshot3 png](https://github.com/user-attachments/assets/53189050-b901-4e50-8dde-251101e6d827)
 
 ---
 
