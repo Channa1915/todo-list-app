@@ -27,6 +27,8 @@ A simple, clean, and responsive To-Do List web application built using **HTML**,
 
 > Before clicking a task:
 ![Screenshot1 png](https://github.com/user-attachments/assets/2ecc7b55-f7e6-4878-ade6-4839d554cdc7)
+>  ![Screenshot2 png](https://github.com/user-attachments/assets/eedd194b-a661-4a30-a3d0-6d2fab61bec3)
+
 
 > After clicking the task:
 ![Screenshot3 png](https://github.com/user-attachments/assets/53189050-b901-4e50-8dde-251101e6d827)
