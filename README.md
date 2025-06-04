@@ -58,16 +58,13 @@ A simple, clean, and responsive To-Do List web application built using **HTML**,
 ## 🌐 Live Demo
 
 > *(Optional: Add your GitHub Pages link here)*  
-Example: https://yourusername.github.io/todo-list-app/
+Example: https://Channa1915.github.io/todo-list-app/
 
 ---
 
 ## 👨‍💻 Author
 
-**Your Name** – [@yourGitHubUsername](https://github.com/yourGitHubUsername)
+**Your Name** – [@Channa1915](https://github.com/Channa1915)
 
 ---
 
-## 📃 License
-
-This project is open-source and available under the [MIT License](LICENSE).
