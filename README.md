@@ -57,8 +57,7 @@ A simple, clean, and responsive To-Do List web application built using **HTML**,
 
 ## 🌐 Live Demo
 
-> *(Optional: Add your GitHub Pages link here)*  
-Example: https://Channa1915.github.io/todo-list-app/
+ https://github.com/Channa1915/todo-list-app/
 
 ---
 
